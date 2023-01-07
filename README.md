@@ -1,2 +1,2 @@
-# sera-test.github.io
+# sera-test
 Sera test
